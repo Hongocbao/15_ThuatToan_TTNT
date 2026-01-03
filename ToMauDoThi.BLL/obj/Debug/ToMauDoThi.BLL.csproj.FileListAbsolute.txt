@@ -1,0 +1,9 @@
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\obj\Debug\ToMauDoThi.BLL.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\obj\Debug\ToMauDoThi.BLL.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\bin\Debug\ToMauDoThi.BLL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\bin\Debug\ToMauDoThi.BLL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\bin\Debug\ToMauDoThi.DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\bin\Debug\ToMauDoThi.DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\obj\Debug\ToMauDoT.29540785.Up2Date
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\obj\Debug\ToMauDoThi.BLL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.BLL\obj\Debug\ToMauDoThi.BLL.pdb

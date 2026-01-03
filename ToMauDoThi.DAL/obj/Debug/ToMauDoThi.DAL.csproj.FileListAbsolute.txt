@@ -1,0 +1,6 @@
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\bin\Debug\ToMauDoThi.DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\bin\Debug\ToMauDoThi.DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\obj\Debug\ToMauDoThi.DAL.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\obj\Debug\ToMauDoThi.DAL.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\obj\Debug\ToMauDoThi.DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\ToMauDoThi.DAL\obj\Debug\ToMauDoThi.DAL.pdb
