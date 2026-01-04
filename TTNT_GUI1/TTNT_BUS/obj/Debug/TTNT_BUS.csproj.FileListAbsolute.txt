@@ -1,0 +1,61 @@
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.ValueTuple.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Memory.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Numerics.Vectors.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Buffers.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.ValueTuple.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Memory.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Numerics.Vectors.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\System.Buffers.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.Up2Date
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.ValueTuple.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Memory.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Numerics.Vectors.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Buffers.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\ExcelDataReader.DataSet.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.ValueTuple.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Memory.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Numerics.Vectors.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\bin\Debug\System.Buffers.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.csproj.Up2Date
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_BUS\obj\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\EntityFramework.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\TTNT_DAL.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\EntityFramework.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_BUS\bin\Debug\EntityFramework.SqlServer.xml

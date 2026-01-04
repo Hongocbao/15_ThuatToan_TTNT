@@ -1,0 +1,111 @@
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.exe.config
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.exe
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.ValueTuple.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Memory.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Buffers.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.ValueTuple.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Memory.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\System.Buffers.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGiaoDien.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmBTSXCV.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmCQDDDG.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGiaiThuat.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGTA.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmTKTCR.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmVH.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.Properties.Resources.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.GenerateResource.cache
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.Up2Date
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.exe
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.exe.config
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.exe.config
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.exe
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_GUI.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.ValueTuple.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_DAL.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Memory.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Buffers.dll
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_BUS.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_DAL.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\ExcelDataReader.DataSet.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.ValueTuple.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Memory.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\bin\Debug\System.Buffers.xml
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.AssemblyReference.cache
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.exe.config
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGiaoDien.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmBTSXCV.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmCayHopGiai.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmCayQuyetDinhV.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmCQDDDG.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGiaiThuat.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmGTA.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmGTS1.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmThamLam.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmThamLamSapXep.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmTKTCR.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frmVH.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.Properties.Resources.resources
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.GenerateResource.cache
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.CoreCompileInputs.cache
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.csproj.Up2Date
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.exe
+D:\HoNgocBao_2380600133\DOANBMTT\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.pdb
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmCayHopGiai.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmCayQuyetDinhV.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmGTS1.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmThamLam.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmThamLamSapXep.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\EntityFramework.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\TTNT_DAL.dll.config
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\EntityFramework.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FormDFS.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FormGTS2.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.FrmLog.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.Form1.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frm_HopGiai.resources
+D:\HoNgocBao_2380600133\DOANBMTT\bài dương bao\TTNT_GUI\TTNT_GUI\obj\Debug\TTNT_GUI.frm_INDO.resources
